@@ -1,0 +1,9 @@
+{
+  "libs": [
+    "underscore",
+    "moment"
+  ],
+  "plugins": {
+    "es_modules": {}
+  }
+}
